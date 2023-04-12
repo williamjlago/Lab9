@@ -1,3 +1,5 @@
+For the order of the algorithm I got O(m*n) the way I got here was through the inner loop that iterated through the movie prefrences is O(M). It is nested with the outer loop which is O(N) which is students so their time complexities are multiplied which got me to O(n*m).
+
 Using a map of sets; keys will be students and each value will be a set of their favorite movies.
 Tasks:
 
